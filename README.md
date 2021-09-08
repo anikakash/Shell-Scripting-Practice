@@ -19,3 +19,9 @@
 
 ## Class 1
 Just know how to print text using shell command
+
+## Class 2
+Learn how do comment in a shell script! and how to use variable in shell
+
+## Class 3
+Knowing About user input with some manipulate tricks. like take input same line and take hidden input. Use array
